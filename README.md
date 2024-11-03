@@ -83,4 +83,6 @@ A: You can find my comprehensive notes and insights on [this Notion document](#)
 If you found this repository helpful, please consider starring 🌟 it to help others discover these valuable resources and support the learning community!
 
 > **Contact Me**  
-Feel free to reach out with any questions, suggestions, or feedback! I’m always interested in improving this resource to support other learners.
+Feel free to reach out with any questions, suggestions, or feedback! I’m always interested in improving this resource to support other learners.<br>
+> [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nv-ptit/)
