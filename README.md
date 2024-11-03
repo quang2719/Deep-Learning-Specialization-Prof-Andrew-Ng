@@ -5,7 +5,8 @@ Welcome to the **Deep Learning Specialization** repository! This repo captures m
 > 🌍 **"872,517 learners, 134,127 reviews, and a rating of 4.9 stars"** — This specialization is widely acclaimed and known for its hands-on approach to deep learning!
 
 ---
-
+## Certificate
+[![My certificate](https://github.com/quang2719/Course---Deep_Learning_Specialization_Prof_Andrew_Ng/blob/main/Certificate/Screenshot%202024-11-03%20162823.png)](https://coursera.org/share/74b8cadaaeaa6cf3b8d00a7334ceb02f)
 ## 📖 Overview
 
 The **Deep Learning Specialization** is a foundational course that explores the capabilities, challenges, and opportunities of deep learning. Throughout this journey, I developed various architectures, from basic neural networks to advanced models like CNNs, RNNs, and Transformers. This repo includes resources and solutions to help others navigate this challenging yet rewarding course.
@@ -72,7 +73,7 @@ A: You can find my comprehensive notes and insights on [this Notion document](#)
 
 | Version | Date       | Changes                                      |
 |---------|------------|----------------------------------------------|
-| 1.0     | 2024-10 | Start learing and compelter first course.    |
+| 1.0     | 2024-09 | Start learing and compelter first course.    |
 | 2.0     | 2024-11 | Complete all 5 course: quizz, programming exercise     |
 
 ---
