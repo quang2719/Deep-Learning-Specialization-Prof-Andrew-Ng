@@ -28,11 +28,11 @@ My goal in creating this repository is to help others facing similar struggles. 
 
 ## 🔗 Code and Assignments:
 
-- [Course 1: Neural Networks and Deep Learning](./Course1/)
-- [Course 2: Improving Deep Neural Networks](./Course2/)
-- [Course 3: Structuring Machine Learning Projects](./Course3/)
-- [Course 4: Convolutional Neural Networks](./Course4/)
-- Course 5: Sequence Models (coming soon)
+- Course 1: Neural Networks and Deep Learning
+- Course 2: Improving Deep Neural Networks
+- Course 3: Structuring Machine Learning Projects
+- Course 4: Convolutional Neural Networks
+- Course 5: Sequence Models
 
 ## ⭐ Star the Repo to Spread the Love!
 If you found this helpful, please consider starring 🌟 the repository to help others discover these resources!
