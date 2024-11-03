@@ -3,7 +3,6 @@ Welcome to my **Deep Learning Specialization** repository! This repo documents m
 
 > “872,517 learners, 134,127 reviews, and a rating of 4.9 stars — it's one of the most highly regarded specializations out there.”
 
-![Coursera Logo](https://upload.wikimedia.org/wikipedia/commons/7/77/Coursera_Logo_2017.png)
 
 ## 📚 Course Overview
 
