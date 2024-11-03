@@ -12,7 +12,7 @@ The specialization consists of 5 intense courses, focusing on deep learning topi
 - **Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization**
 - **Course 3: Structuring Machine Learning Projects**
 - **Course 4: Convolutional Neural Networks**
-- **Course 5: Sequence Models** (Coming Soon)
+- **Course 5: Sequence Models**
 
 ## 💻 What's Included in This Repository?
 
@@ -28,11 +28,11 @@ My goal in creating this repository is to help others facing similar struggles. 
 
 ## 🔗 Code and Assignments:
 
-- Course 1: Neural Networks and Deep Learning
-- Course 2: Improving Deep Neural Networks
-- Course 3: Structuring Machine Learning Projects
-- Course 4: Convolutional Neural Networks
-- Course 5: Sequence Models
+- [Course 1: Neural Networks and Deep Learning](https://github.com/quang2719/Deep-Learning-Specialization-Prof-Andrew-Ng/tree/main/Course%201)
+- [Course 2: Improving Deep Neural Networks](https://github.com/quang2719/Deep-Learning-Specialization-Prof-Andrew-Ng/tree/main/Course%202)
+- [Course 3: Structuring Machine Learning Projects](https://github.com/quang2719/Deep-Learning-Specialization-Prof-Andrew-Ng/tree/main/Course%203)
+- [Course 4: Convolutional Neural Networks](https://github.com/quang2719/Deep-Learning-Specialization-Prof-Andrew-Ng/tree/main/Course%204)
+- [Course 5: Sequence Models](https://github.com/quang2719/Deep-Learning-Specialization-Prof-Andrew-Ng/tree/main/Course%205)
 
 ## ⭐ Star the Repo to Spread the Love!
 If you found this helpful, please consider starring 🌟 the repository to help others discover these resources!
